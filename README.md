@@ -1,22 +1,22 @@
 
-#Adapting Wireless Network Configuration From Simulation to Reality
-#Overview
+# Adapting Wireless Network Configuration From Simulation to Reality
+# Overview
 Our research addresses the challenge of the simulation-to-reality gap in network configuration prediction. Traditional models based on simulations often falter when applied to physical networks due to this gap. In our project, we utilize deep learning-based domain adaptation to bridge this disparity.
 
-##Methodology
+## Methodology
 We employ a novel approach that combines a teacher-student neural network architecture with a physical sampling method. This strategy enables the transfer of network configuration knowledge from simulated environments to their real-world counterparts.
 
-##Key Findings
+## Key Findings
 Our experimental results are promising:
 
 We successfully narrowed the simulation-to-reality gap.
 The accuracy of predicting effective network configurations that meet performance requirements improved significantly from 30.10% to 70.24%.
 This improvement was achieved by leveraging robust machine learning models trained on extensive, cost-effective simulation data, supplemented by a limited set of valuable field testing measurements.
-##Publication
+## Publication
 This work has been published in the IEEE/ACM Transactions on Networking, 2023. For more details, see:
 
 Shi J, Ma A, Cheng X, et al. "Adapting Wireless Network Configuration From Simulation to Reality via Deep Learning-Based Domain Adaptation", IEEE/ACM Transactions on Networking, 2023 (01): 1-16.
-##Acknowledgements
+## Acknowledgements
 We gratefully acknowledge the support of the National Science Foundation under grants CNS-2046538 and CNS-2150010.
 
 # Requirements
