@@ -12,10 +12,13 @@ Our experimental results are promising:
 We successfully narrowed the simulation-to-reality gap.
 The accuracy of predicting effective network configurations that meet performance requirements improved significantly from 30.10% to 70.24%.
 This improvement was achieved by leveraging robust machine learning models trained on extensive, cost-effective simulation data, supplemented by a limited set of valuable field testing measurements.
-## Publication
+## Publications
 This work has been published in the IEEE/ACM Transactions on Networking, 2023. For more details, see:
 
-Shi J, Ma A, Cheng X, et al. "Adapting Wireless Network Configuration From Simulation to Reality via Deep Learning-Based Domain Adaptation", IEEE/ACM Transactions on Networking, 2023 (01): 1-16.
+Junyang Shi, Aitian Ma, Xia Cheng, Mo Sha, and Xi Peng, Adapting Wireless Network Configuration from Simulation to Reality via Deep Learning based Domain Adaptation, IEEE/ACM Transactions on Networking, accepted for publication.
+
+Junyang Shi, Mo Sha, and Xi Peng, Adapting Wireless Mesh Network Configuration from Simulation to Reality via Deep Learning based Domain Adaptation, USENIX Symposium on Networked Systems Design and Implementation (NSDI), April 2021.
+
 ## Acknowledgements
 We gratefully acknowledge the support of the National Science Foundation under grants CNS-2046538 and CNS-2150010.
 
